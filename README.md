@@ -36,7 +36,8 @@ Prompts Used:
 
 Python Code:
 
- 
+![image alt](https://github.com/Ajay-Joshua-M/Exno.8-Prompt-Engg/blob/7d4df0d6c22106dfd3a0f5dd1243e36e134fb19e/IMAGES/Screenshot%202025-05-26%20115454.png)
+
 Analysis:
 Clear improvements in tone, articulation, and student engagement with contextual prompts.
 
@@ -46,8 +47,9 @@ Prompts Used:
 •	Emotion Prompt: "Generate calming background music for focus and studying."
 •	Complex Prompt: "Compose an ambient electronic track with slow tempo and soft piano, ideal for math practice."
 
-
 Python Code:
+
+![image alt](https://github.com/Ajay-Joshua-M/Exno.8-Prompt-Engg/blob/7d4df0d6c22106dfd3a0f5dd1243e36e134fb19e/IMAGES/Screenshot%202025-05-26%20115505.png)
  
 Analysis:
 Detailed prompts produced music with better alignment to learning environments. Ambient prompts generated smoother audio transitions and low-distraction backgrounds.
@@ -57,24 +59,21 @@ Prompts Used:
 •	Simple Prompt: "Classroom bell sound"
 •	Descriptive Prompt: "A school bell ringing during recess with light background chatter."
 •	Scenario Prompt: "Sound effect of a virtual classroom with soft keyboard typing and occasional pen tapping."
+
 Python Code:
- 
+
+![image alt](https://github.com/Ajay-Joshua-M/Exno.8-Prompt-Engg/blob/7d4df0d6c22106dfd3a0f5dd1243e36e134fb19e/IMAGES/Screenshot%202025-05-26%20115505.png)
+
 Analysis:
 Contextual prompts offered rich and immersive soundscapes. Scenario-driven prompts helped simulate real-world classroom scenes.
+
 Prototype/System Design Overview
-Module	Functionality
-Voice Narrator	Converts text into expressive narration with emotional tone control
-Music Generator	Generates background music based on learning intent and tempo
-SFX Composer	Produces contextual sound effects from natural language descriptions
-Prompt Box (UI)	Accepts free-text prompts for various audio tasks
-Output Player	Plays MP3/WAV files for preview and validation
+
+![image alt](https://github.com/Ajay-Joshua-M/Exno.8-Prompt-Engg/blob/7d4df0d6c22106dfd3a0f5dd1243e36e134fb19e/IMAGES/Screenshot%202025-05-26%20115519.png)
 
 Evaluation & Feedback Collection
-Sample Feedback Prompt: "Rate this narration on clarity, engagement, and tone (1–5 scale)."
-Prompt Type	Clarity	Engagement	Tone Appropriateness
-Basic Prompt	3	2	3
-Refined Prompt	4	4	4
-Contextual/Personal Prompt	5	5	5
+
+![image alt](https://github.com/Ajay-Joshua-M/Exno.8-Prompt-Engg/blob/7d4df0d6c22106dfd3a0f5dd1243e36e134fb19e/IMAGES/Screenshot%202025-05-26%20115530.png)
 
 Key Findings:
 •	Contextual prompts produced the most natural and expressive outputs.
